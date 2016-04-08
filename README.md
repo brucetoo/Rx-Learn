@@ -1,8 +1,8 @@
 # Rx-Learn
 Rxjava - Rxandroid基础到高级学习
 
-内容大部分来自 [Dan Lew](http://blog.danlew.net/2014/09/15/grokking-rxjava-part-1/) 的博客
-               [抛物线](http://gank.io/post/560e15be2dca930e00da1083#toc_1)的博客
+内容大部分来自 [Dan Lew](http://blog.danlew.net/2014/09/15/grokking-rxjava-part-1/) ,
+               [扔物线](http://gank.io/post/560e15be2dca930e00da1083#toc_1)的博客
 以及自己的一些理解
 
 # Rxjava基本的概念
